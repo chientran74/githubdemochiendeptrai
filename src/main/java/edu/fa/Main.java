@@ -20,7 +20,8 @@ public class Main {
         while(true) {
         	index=(int) Math.round(Math.random()*2016);
         	pageVisitor.visit(users[index], page);
+		
         }
 	}
-
+    int i=0;
 }
