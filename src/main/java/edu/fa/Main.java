@@ -23,5 +23,9 @@ public class Main {
 		
         }
 	}
+<<<<<<< HEAD
     int i=0,c;
+=======
+    int i=0,b;
+>>>>>>> f9d15dd6f22e6e157ed2d8fe3aa29cf0bb0d32bc
 }
